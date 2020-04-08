@@ -1,4 +1,4 @@
-count = 10
+count = 0
 magicExitNumber = 7
 while count < 3 do
   break if count == magicExitNumber
