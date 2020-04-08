@@ -1,7 +1,8 @@
-count = 0
-magicExitNumber = 7
-while count < 3 do
-  break if count == magicExitNumber
-  puts "I am the #{count}, I love to count!"
-  count++
+count = 10
+while count > 0 do
+  puts count
+  if count = 0
+    puts "Happy New Year!"
+  end
+  count--
 end
